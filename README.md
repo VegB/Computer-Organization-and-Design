@@ -8,4 +8,10 @@ This directory contains code for two class, Computer Organization(计算机组�
 
 ## Microcomputer Experiments
 Microcomputer Experiments is a course in sophomore year. It serves as the hands-on experiment class with Computer Organization, in which students are asked to write assembly codes.<br>
+
+### FALLING - Description
 /Falling directory contains the code for my final assignment- FALLING, a self-designed assembly game.
+
+### FALLING - Prequisites
+(1) Run in DOS.
+(2) Uses 8255A, 8253 and 16x16 LED; or else it might break down directly. =u=
