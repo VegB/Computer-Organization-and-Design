@@ -13,5 +13,5 @@ Microcomputer Experiments is a course in sophomore year. It serves as the hands-
 /Falling directory contains the code for my final assignment- FALLING, a self-designed assembly game.
 
 ### FALLING - Prequisites
-(1) Run in DOS.<br>
+(1) Runs in DOS.<br>
 (2) Uses 8255A, 8253 and 16x16 LED; or else it might break down directly. =u=
